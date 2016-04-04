@@ -1,0 +1,12 @@
+{
+    "name": "zemsoft/3derp",
+    "authors": [
+        {
+            "name": "Julius Masigan",
+            "email": "juliusmasigan@gmail.com"
+        }
+    ],
+    "require": {
+        "chrisboulton/php-resque": "1.2.x"
+    }
+}

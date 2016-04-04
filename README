@@ -1,0 +1,12 @@
+Here's a simple job worker queue using PHP Resque.
+
+Requirements:
+redis-server
+composer
+
+Installation:
+Run composer install within the project directory.
+
+Usage:
+To run a worker to consume a queue execute the line below.
+bash -c "QUEUE=default INTERVAL=5 php worker.php"
